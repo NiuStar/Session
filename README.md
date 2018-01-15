@@ -1,1 +1,3 @@
 # Session
+
+在HTTPS方法中添加Session及cookie管理方法
